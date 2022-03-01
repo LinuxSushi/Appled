@@ -1,2 +1,3 @@
 # Appled 16x Texture pack
-If you have access to it, you know what it is :) !
+A resource pack made by CalamityApple and LinuxSushi.
+(Mostly CalamityApple.)
